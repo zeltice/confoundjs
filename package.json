@@ -38,9 +38,9 @@
     "node": "*"
   },
   "dependencies": {
-    "underscore": "~1.6.0",
-    "promise": "~4.0.0",
-    "uglifyjs": "~2.3.6"
+    "underscore": "^1.6.0",
+    "promise": "^4.0.0",
+    "uglifyjs": "^2.3.6"
   },
   "devDependencies": {
     "gulp": "~3.6.2",
